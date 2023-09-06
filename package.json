@@ -1,0 +1,21 @@
+{
+  "name": "scraping_etf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "satnica.js",
+  "compilerOptions": { "allowJs": true, "outDir": "./dist" },
+  
+  "scripts": {
+    "start": "node satnica"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "audic": "^3.0.1",
+    "discord.js": "^14.7.1",
+    "node-fetch": "^2.6.6",
+    "puppeteer": "^19.2.2"
+  }
+  
+}
